@@ -1,0 +1,22 @@
+ body {
+    background-color: lightgreen;
+    color: darkblue;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url(ground_img2.jpg);
+    background-size: cover;
+ }
+
+ .choice-button {
+   height: 100px;
+   width: 100px;
+   border: none;
+   margin: 10px;
+   background-color: rgb(96, 156, 96);
+   border-radius: 50%;
+   cursor: pointer;
+ }
+ .choice-img {
+   height: 75px;
+ }
